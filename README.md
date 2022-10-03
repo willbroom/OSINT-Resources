@@ -1,7 +1,7 @@
-<h1>Active Directory Home Lab</h1>
+<h1>OSINT Resources</h1>
 
 <h2>Description</h2>
-Insert Description Here
+This is a collection of OSINT resources that have been collected over time.
 <br />
 
 
