@@ -12,7 +12,7 @@ This is a collection of OSINT resources that have been collected over time.
 
 <h2>Social Media OSINT</h2>
 
-- <b>example/b> (21H2)
+- <b>example</b> (21H2)
 - <b>example</b>
 
 <h2>Geolocation OSINT</h2>
